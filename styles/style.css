@@ -303,15 +303,9 @@
   list-style: none;
 }
 
-.footer__menu-list-item {
-}
-
 .footer__menu-link {
   display: inline-block;
   border-bottom: 1px solid currentColor;
-}
-
-.footer__menu-link_active {
 }
 
 .footer__social-list {
@@ -321,9 +315,6 @@
 
 .footer__social-list-item {
   list-style: none;
-}
-
-.footer__social-link {
 }
 
 .footer__social-icon {
